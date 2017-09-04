@@ -9,6 +9,7 @@ Enjoy :)
 
 ## Dependancies
 Python 3.x
+
 tkinter and serial libraries - install through PIP
 
 
